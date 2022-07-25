@@ -8,7 +8,8 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
-    "gatsby": "^4.19.2",
+    "gatsby": "4.20.0-alpha-change-sort-and-aggr.41",
+    "gatsby-codemods": "3.20.0-alpha-change-sort-and-aggr.56",
     "gatsby-plugin-feed": "^4.19.0",
     "gatsby-plugin-gatsby-cloud": "^4.19.0",
     "gatsby-plugin-google-analytics": "^4.19.0",

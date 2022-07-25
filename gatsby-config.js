@@ -129,4 +129,7 @@ module.exports = {
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
   ],
+  flags: {
+    GRAPHQL_NESTED_SORT_AND_AGGREGATE: true,
+  },
 }
